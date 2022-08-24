@@ -1,2 +1,6 @@
 #!/bin/bash
-echo "ALX"
+<<<<<<< .merge_file_akDgqw
+echo "ALX School"
+=======
+echo "ALX School is so cool!"
+>>>>>>> .merge_file_LTGc7B
